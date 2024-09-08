@@ -1,4 +1,4 @@
-package com.nrapendra.spring_boot_liquibase_example;
+package com.nrapendra;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
